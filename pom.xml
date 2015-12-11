@@ -8,7 +8,7 @@
     <developerConnection>scm:git:git@github.com:hawknewton/follow-test.git</developerConnection>
     <url>https://github.com/hawknewton/follow-test</url>
   </scm>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>follow-test Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>

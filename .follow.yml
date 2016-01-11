@@ -1,5 +1,8 @@
 ---
-- script_step:
+steps:
+  build:
     image: maven:3.3.3-jdk-8
+    environment:
+      - NAME1=VALUE1
     script: |
       mvn clean package
